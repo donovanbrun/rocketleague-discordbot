@@ -23,4 +23,4 @@ Install packages :
 ```npm i```
 
 Run :  
-```node ./main.js```
+```npm start```
